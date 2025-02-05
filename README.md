@@ -16,9 +16,9 @@ A Systems Engineer with 10+ years of experience in building and managing scalabl
 
 Here are some of my projects:
 
-- [Blood Bank Managment System](https://github.com/leizcool/Blood-Bank-Management-System.git)
-- [Personalized Diet Planner](https://github.com/leizcool/Personalized-Diet-Planner.git)
-- [Student Course Management Web App](https://github.com/leizcool/Student-Course-Web-App.git)
+- [Blood Bank Managment System - Spring Boot JavaEE](https://github.com/leizcool/Blood-Bank-Management-System.git)
+- [Personalized Diet Planner - Spring Boot JavaEE](https://github.com/leizcool/Personalized-Diet-Planner.git)
+- [Student Course Management Web App - MERN Stack](https://github.com/leizcool/Student-Course-Web-App.git)
 
 ## Connect with Me
 
