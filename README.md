@@ -16,9 +16,9 @@ A Systems Engineer with 10+ years of experience in building and managing scalabl
 
 Here are some of my projects:
 
-- [Project 1](https://github.com/leizcool/project1)
-- [Project 2](https://github.com/leizcool/project2)
-- [Project 3](https://github.com/leizcool/project3)
+- [Blood Bank Managment System](https://github.com/leizcool/Blood-Bank-Management-System.git)
+- [Personalized Diet Planner](https://github.com/leizcool/Personalized-Diet-Planner.git)
+- [Student Course Management Web App](https://github.com/leizcool/Student-Course-Web-App.git)
 
 ## Connect with Me
 
