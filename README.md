@@ -9,7 +9,7 @@ A Systems Engineer with 10+ years of experience in building and managing scalabl
 - 🌱 I’m currently learning [MERN Stack, Full Stack Development, Cloud Computing]
 - 👯 I’m looking to collaborate on [Any Open Source Project]
 - 💬 Ask me about [Information Technology]
-- 📫 How to reach me: [leizcool@yahoo.com]
+- 📫 How to reach me: [anmdxb@gmail.com]
 - ⚡ Fun fact: [I have a dog named Pixel.]
 
 ## Projects
