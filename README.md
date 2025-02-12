@@ -2,7 +2,7 @@
 
 I'm Aleli, a passionate Software Engineer/Developer.
 
-## About Me
+## About Me 😃
 A Systems Engineer with 10+ years of experience in building and managing scalable applications. Specialized in .Net, Java, MERN, Python, Cloud technologies, and Network support.
 
 - 🔭 I’m currently working on [Diet Planner Web App in Spring Boot](https://github.com/leizcool/Personalized-Diet-Planner.git)
