@@ -20,7 +20,7 @@ Here are some of my projects:
 - [Personalized Diet Planner - Spring Boot JavaEE](https://github.com/leizcool/Personalized-Diet-Planner.git)
 - [Student Course Management Web App - MERN Stack](https://github.com/leizcool/Student-Course-Web-App.git)
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,python,csharp,dotnet,react,mongodb,mysql,sqlite,aws,azure,gcp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,dotnet,react,mongodb,mysql,sqlite,aws,azure,gcp&theme=light)](https://skillicons.dev)
 
 ## Connect with Me
 
