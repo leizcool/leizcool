@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Aleli, a passionate Software Engineer/Developer.
+I'm Aleli, a Software Engineer.
 
 ## About Me 😊
 A Software Engineer/IT Specialist with 10+ years of experience in building and managing scalable applications. Specialized in .Net, Java, MERN, Python, Cloud technologies, and Network support.
