@@ -10,7 +10,7 @@ A Software Engineer/IT Specialist with 10+ years of experience in building and m
 - 👯 I’m looking to collaborate on [Any Open Source Project]
 - 💬 Ask me about [Information Technology]
 - 📫 How to reach me: [alelimc@yahoo.com]
-- ⚡ Fun fact: [I have a dog named Pixel.]
+- ⚡ Fun fact: [I like trekking, cycling, bowling and I have a dog named Pixel]
 
 ## Projects
 
