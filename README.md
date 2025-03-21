@@ -9,7 +9,7 @@ A Software Engineer/IT Specialist with 10+ years of experience in building and m
 - 🌱 I’m currently learning [MERN Stack, Full Stack Development, Cloud Computing]
 - 👯 I’m looking to collaborate on [Any Open Source Project]
 - 💬 Ask me about [Information Technology]
-- 📫 How to reach me: [anmdxb@gmail.com]
+- 📫 How to reach me: [alelimc@yahoo.com]
 - ⚡ Fun fact: [I have a dog named Pixel.]
 
 ## Projects
