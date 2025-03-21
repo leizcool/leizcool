@@ -16,9 +16,9 @@ A Software Engineer/IT Specialist with 10+ years of IT Specialist experience and
 
 Here are some of my projects:
 
-- [Blood Bank Managment System - Spring Boot JavaEE](https://github.com/leizcool/Blood-Bank-Management-System.git)
 - [Personalized Diet Planner - Spring Boot JavaEE](https://github.com/leizcool/Personalized-Diet-Planner.git)
 - [Student Course Management Web App - MERN Stack](https://github.com/leizcool/Student-Course-Web-App.git)
+- [Team Project Managment System - MERN stack & GraphQL & Apollo Server](https://github.com/leizcool/)
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,dotnet,react,mongodb,mysql,sqlite,aws,azure,gcp&theme=light)](https://skillicons.dev)
 
