@@ -7,7 +7,7 @@ IT professional with 10+ years of global experience in system administration (Mi
 Skilled in managing hybrid IT environments and building full-stack apps using Java, Spring Boot, MySQL, and the MERN stack (MongoDB, Express.js, React, Node.js).
 Trained in Microsoft Azure Fundamentals/Azure DevOps services and passionate about supporting secure, scalable systems and meaningful software solutions. Open to hybrid or remote roles in Canada in system administration, backend dev, or IT infrastructure.
 
-- 🔭 I’m currently learning [AI Integration](https://github.com/leizcool)
+- 🔭 I’m currently learning [more AI Integration](https://github.com/leizcool)
 - 🌱 I’m recently trained on [Full Stack Development, Cloud Computing, Data Warehousing & Predictive Analytics]
 - 👯 I’m looking to collaborate on [Any Open Source Project]
 - 💬 Ask me about [Information Technology]
