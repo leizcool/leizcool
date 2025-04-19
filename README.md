@@ -11,7 +11,7 @@ Trained in Microsoft Azure Fundamentals/Azure DevOps services and passionate abo
 - 🌱 I’m recently trained on [Full Stack Development, Cloud Computing, Data Warehousing & Predictive Analytics]
 - 👯 I’m looking to collaborate on [Any Open Source Project]
 - 💬 Ask me about [Information Technology]
-- 📫 How to reach me: [alelimc@yahoo.com]
+- 📫 How to reach me: [https://www.linkedin.com/in/alelimacapagal/]
 - ⚡ Fun fact: [I like trekking, cycling, bowling and I have a dog named Pixel]
 
 ## Projects
