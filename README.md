@@ -18,10 +18,10 @@ Trained in Microsoft Azure Fundamentals/Azure DevOps services and passionate abo
 
 Here are some of my projects:
 
-- [Personalized Diet Planner - Spring Boot JavaEE & MySQL](https://github.com/leizcool/Personalized-Diet-Planner.git)
-- [Blood Bank Management System - Spring Boot JavaEE & MySQL](https://github.com/leizcool/Blood-Bank-Management-System.git)
+- [Personalized Diet Planner - Spring Boot JavaEE | MySQL](https://github.com/leizcool/Personalized-Diet-Planner.git)
+- [Blood Bank Management System - Spring Boot JavaEE | MySQL](https://github.com/leizcool/Blood-Bank-Management-System.git)
 - [Student Course Management Web App - MERN Stack](https://github.com/leizcool/Student-Course-Web-App.git)
-- [Haelthcare Monitoring System - MERN stack & GraphQL & Apollo Server & AI & Microservices](https://github.com/leizcool/Healthcare-Monitoring-System.git)
+- [Haelthcare Monitoring System - MERN stack | GraphQL | Apollo Server | AI | Microservices](https://github.com/leizcool/Healthcare-Monitoring-System.git)
 - [Azure DevOps CI/CD pipeline implementation - azure-pipelines.yml](https://github.com/leizcool/Personalized-Diet-Planner.git)
 - [Networking for Software Developers - A Python end-to-end IoT solution that uses the MQTT protocol](https://github.com/leizcool/SoundMonitoringSystem.git)
 
