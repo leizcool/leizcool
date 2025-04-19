@@ -21,8 +21,8 @@ Here are some of my projects:
 - [Personalized Diet Planner - Spring Boot JavaEE](https://github.com/leizcool/Personalized-Diet-Planner.git)
 - [Student Course Management Web App - MERN Stack](https://github.com/leizcool/Student-Course-Web-App.git)
 - [Haelthcare Monitoring System - MERN stack & GraphQL & Apollo Server](https://github.com/leizcool/Healthcare-Monitoring-System.git)
-- Azure DevOps CI/CD pipeline implementation - Azure yml file](https://github.com/alelimc/Diet_Planner-Comp313-003.git)
-- Networking for Software Developers - An end-to-end IoT solution that uses the MQTT protocol (Python)](https://github.com/leizcool/SoundMonitoringSystem.git)
+- [Azure DevOps CI/CD pipeline implementation - Azure yml file](https://github.com/alelimc/Diet_Planner-Comp313-003.git)
+- [Networking for Software Developers - An end-to-end IoT solution that uses the MQTT protocol (Python)](https://github.com/leizcool/SoundMonitoringSystem.git)
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,dotnet,react,mongodb,mysql,sqlite,aws,azure,gcp&theme=light)](https://skillicons.dev)
 
