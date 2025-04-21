@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Aleli, a Software Engineer.
+I'm Aleli, a Balanced Tech Generalist (SysAdmin + Software Engineer).
 
 ## About Me 😊
 IT professional with 10+ years of global experience in system administration (Microsoft 365, Azure, AD, PowerShell), now blending that expertise with software development skills gained from my Software Engineering Technology diploma (Centennial College, 2025).
